@@ -1,0 +1,26 @@
+JAVA LAB PROGRAM LIST
+
+PART - A 
+
+1. write a program to sort and display a vector with command line input
+2. Write a program to find area of geometrical figures using method overloading
+3. Write a program to calculate the areas of different geometrical figures using abstract class.
+4. Write a program to demonstrate the creation and import of packages.
+5. Write a program with multiple catch clauses to handle exceptions like ArithmeticException,IOException and ArrayIndexOutofBoundsException.
+6. Write an applet which receives fontname and fontsize as parameters and displays a string using these parameters
+7. Write an applet that demonstrates the usage of any two mouse and keyboard events.
+8. Write a menu driven program to draw different geometrical figures with menu options like: 1) Draw Line 2) Draw Rectangle 3) Draw Ellipse 4)Draw Polygon.
+9. Write a Java program that displays the number of characters, lines and words in a text file.
+
+PART-B
+
+11. Write a java program to print fibonacci series using command-line argument.
+12. Write a java program to demonstrate mathematical functions.
+13. Write a java program to implement all string operations.
+14. Write a java program to implement constructor overloadingby passing different number of parameters of different types.
+15. Write a java program to demonstrate static method.
+16. Write a java program to demonstrate multiple inheritance by interface
+17. Write a java program to demonstrate  Vectors.
+18. Write a program to implement wrapper classes.
+19. W.A.P to to create thread using runnable interface
+20. Write a program to implement thread priorities.
