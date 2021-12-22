@@ -10,8 +10,8 @@ class Program11 {
 		}
 
 		int n = Integer.parseInt(args[0]);
-		System.out.print(a + " " + b );
-		for (int i=1; i<n-1; i++) {
+		System.out.print(a + " " + b);
+		for (int i = 1; i < n - 1; i++) {
 			c = a + b;
 			a = b;
 			b = c;

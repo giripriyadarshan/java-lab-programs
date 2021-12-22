@@ -9,11 +9,13 @@ class Program16 {
 
 interface Father {
 	float ht = 6.2f;
+
 	void height();
 }
 
 interface Mother {
 	float ht = 5.8f;
+
 	void height();
 }
 

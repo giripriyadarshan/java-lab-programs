@@ -15,27 +15,24 @@ class Program20 {
 }
 
 class A extends Thread {
-	public void run()
-	{
-		for (int i=0;i<3 ;i++ ) {
-			System.out.println("Thread1 is executing");			
+	public void run() {
+		for (int i = 0; i < 3; i++) {
+			System.out.println("Thread1 is executing");
 		}
 	}
 }
 
 class B extends Thread {
-	public void run()
-	{
-		for (int j=0;j<3 ;j++ ) {
+	public void run() {
+		for (int j = 0; j < 3; j++) {
 			System.out.println("Thread2 is executing");
 		}
 	}
 }
 
 class C extends Thread {
-	public void run()
-	{
-		for (int k=0;k<3 ;k++ ) {
+	public void run() {
+		for (int k = 0; k < 3; k++) {
 			System.out.println("Thread3 is executing");
 		}
 	}

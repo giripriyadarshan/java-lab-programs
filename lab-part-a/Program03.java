@@ -14,20 +14,21 @@ class Program03 {
 
 abstract class geometricalFigures {
 	float length, breadth, side, radius;
+
 	abstract double area();
 }
 
 class square extends geometricalFigures {
 	double area() {
 		side = 4f;
-		return (side * side );
+		return (side * side);
 	}
 }
 
 class circle extends geometricalFigures {
 	double area() {
 		radius = 4.0f;
-		return  (3.14f * radius * radius);
+		return (3.14f * radius * radius);
 	}
 }
 
