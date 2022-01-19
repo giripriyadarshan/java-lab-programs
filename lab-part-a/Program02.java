@@ -2,7 +2,7 @@
 
 public class Program02 {
     public static void main(String[] args) {
-        var figure1 = new GeometricalFigures();
+        GeometricalFigures figure1 = new GeometricalFigures();
         System.out.println("area of square = " + figure1.area(4));
         System.out.println("area of rectangle = " + figure1.area(7, 4));
         System.out.println("area of circle = " + figure1.area(3));
